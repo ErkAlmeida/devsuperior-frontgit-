@@ -13,6 +13,9 @@ const Home = () => (
           Este design foi adaptado a partir de Ant Design System for Figma, de <br/> 
           Mateusz Wierzbicki: antforfigma@gmail.com
         </p>
+        <p>
+          Dev Front e Back: Erick Almeida Santos
+        </p>
       </div>
       <div className="btn-p">
         <Link to="/profile">

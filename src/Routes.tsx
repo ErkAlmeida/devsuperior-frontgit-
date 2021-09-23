@@ -4,7 +4,7 @@ import Title from "./core/components/Title/intex";
 import Home  from "./pages/Home/Index";
 import Profile from "./pages/Profile";
 
-const Routes =  () => (
+const Routes = () => (
     <BrowserRouter>
         <Title />
         <Switch>

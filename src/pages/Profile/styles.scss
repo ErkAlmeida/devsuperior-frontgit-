@@ -1,5 +1,5 @@
 .profile-container-form{
-
+    width: 1250px;
     height: 270px;
     background: #E6F7FF;
     border-radius: 16px;
@@ -7,6 +7,17 @@
     padding-left: 95px;
     margin: 90px;
 
+}
+
+.profile-container-return{
+    width: 1350px;
+    display: flex;
+    margin: 90px;
+    height: 390px;
+    background: #F5F5F5;
+    border-radius: 8px;
+    padding-top: 25px;
+    
 }
 
 .profile-imput-form{
@@ -27,19 +38,12 @@
     color: #BFBFBF;
 }
 
-.profile-container-return{
-    display: flex;
-    margin: 90px;
-    height: 387px;
-    background: #F5F5F5;
-    border-radius: 8px;
-    padding-top: 25px;
-}
+
 
 .profile-img{
     width: 290px;
     height: 280px;
-    margin-left: 90px;
+    margin-left: 30px;
     padding-left: 30px;
     padding-right: 45px;
     padding-bottom: 25px;
@@ -50,7 +54,7 @@
 .profile-get-data{
   
     width: 870px;
-    height: 247px;
+    height: 250px;
     background: #FFFFFF;   
     border: 1px solid #D9D9D9;
     box-sizing: border-box;
@@ -108,7 +112,7 @@
     width: 534px;
     height: 28px;
     font-family: Roboto;
-    font-style: normal;
+    font-style: bold;
     font-weight: 500;
     font-size: 20px;
     line-height: 28px;
